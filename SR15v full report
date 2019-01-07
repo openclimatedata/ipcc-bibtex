@@ -1,0 +1,10 @@
+@book{masson-delmotte_global_2018,
+	address = {Geneva, Switzerland},
+	title = {Global {Warming} of 1.5°{C}: {An} {IPCC} {Special} {Report} on the impacts of global warming of 1.5°{C} above pre-industrial levels and related global greenhouse gas emission pathways, in the context of strengthening the global response to the threat of climate change, sustainable development, and efforts to eradicate poverty},
+	isbn = {978-92-9169-151-7},
+	shorttitle = {{IPCC} {SR}15},
+	url = {https://www.ipcc.ch/sr15/},
+	publisher = {World Meteorological Organization},
+	editor = {Masson-Delmotte, Valérie and Zhai, Panmao and Pörtner, Hans-Otto and Roberts, Debra and Skea, Jim and Shukla, Priyadarshi R and Pirani, Anna and Moufouma-Okia, Wilfran and Péan, Clotilde and Pidcock, Roz and Connors, Sarah and Matthews, J B Robin and Chen, Yang and Zhou, Xiao and Gomis, Melissa I and Lonnoy, Elisabeth and Maycock, Tom and Tignor, Melinda and Waterfield, Tim and Pirani, Anna and Moufouma-Okia, Wilfran and Péan, Clotilde and Pidcock, Roz and Connors, Sarah and Matthews, J B Robin and Chen, Yang and Zhou, Xiao and Gomis, Melissa I and Lonnoy, Elisabeth and Maycock, Tom and Tignor, Melinda and Waterfield, Tim},
+	year = {2018}
+}
