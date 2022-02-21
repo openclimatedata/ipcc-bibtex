@@ -10,6 +10,10 @@ http://www.climatechange2013.org/report/full-report
 
 WG III citations have been typed by hand.
 
+## AR 6
+
+WG I citations have been typed by hand while we wait for official BibTex citations to be provided.
+
 ## Setup
 
 Run
