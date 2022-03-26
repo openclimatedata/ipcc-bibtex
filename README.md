@@ -1,4 +1,4 @@
-# citations
+# IPCC report citations in BibTeX format
 
 Commonly used citations in BibTeX format that are too hard to find
 
