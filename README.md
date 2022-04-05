@@ -14,7 +14,7 @@ WG III citations have been typed by hand.
 
 ## AR 6
 
-WG I citations have been typed by hand while we wait for official BibTeX citations to be provided.
+WG I and WG III citations have been typed by hand while we wait for official BibTeX citations to be provided.
 
 ## Setup
 
