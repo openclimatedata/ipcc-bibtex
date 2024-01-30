@@ -5,6 +5,10 @@ in BibTeX format that are too hard to find.
 
 ## SR15
 
+## SROCC
+
+Converted from the 'official' citation page [ipcc.ch/srocc/cite-report](https://www.ipcc.ch/srocc/cite-report/); there might be issues with how editors are included for the annexes.
+
 ## AR5
 
 Only WG I provides BibTeX citations which are included in this repository:
