@@ -39,6 +39,11 @@ docs/srocc.html: srocc.bib
 	sed -i s/'<!DOCTYPE HTML PUBLIC "-\/\/W3C\/\/DTD HTML 4.01 Transitional\/\/EN">'/'<!DOCTYPE html>'/ docs/srocc.html
 	sed -i s/'<head>'/'<head><meta charset="utf-8">'/ docs/srocc.html
 
+docs/srocc.html: srccl.bib
+	cd docs; bibtex2html -single -css bulma.min.css -header "<section class='section'><div class='container'><h1 class='title'>Special Report on Climate Change and Land</h1><p><a href='index.html'>Back to overview</a></p>" -footer "</div></section>" ../$<
+	sed -i s/'<!DOCTYPE HTML PUBLIC "-\/\/W3C\/\/DTD HTML 4.01 Transitional\/\/EN">'/'<!DOCTYPE html>'/ docs/srccl.html
+	sed -i s/'<head>'/'<head><meta charset="utf-8">'/ docs/srocc.html
+
 clean:
 	rm docs/ar4*.html docs/ar5*.html docs/ar6*.html docs/sr*.html
 
