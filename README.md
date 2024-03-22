@@ -11,7 +11,7 @@ Converted from the 'official' citation page [ipcc.ch/srocc/cite-report](https://
 
 ## SRCCL
 
-Converted from the 'official' citation page  [ipcc.ch/srccl/cite-report/](https://www.ipcc.ch/srccl/cite-report/); there might be issues with how editors are included, and the DOI is provided only for the full report (others are missing from the IPCC's citation page as of 31/01/2024; the provided DOI is from [CUP](https://doi.org/10.1017/9781009157988).
+Converted from the 'official' citation page  [ipcc.ch/srccl/cite-report/](https://www.ipcc.ch/srccl/cite-report/); there might be issues with how editors are included, and the DOI is provided only for the full report (others are missing from the IPCC's citation page as of 31/01/2024; the provided DOI is from [CUP](https://doi.org/10.1017/9781009157988)).
 
 ## AR5
 
