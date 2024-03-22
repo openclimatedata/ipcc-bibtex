@@ -19,7 +19,7 @@ Only WG I provides BibTeX citations which are included in this repository:
 
 http://www.climatechange2013.org/report/full-report
 
-WG III citations have been typed by hand.
+WGII and WG III citations have been typed by hand.
 
 ## AR6
 
