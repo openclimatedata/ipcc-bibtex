@@ -1,4 +1,4 @@
-all: docs/ar6-wg-i.html docs/ar6-wg-ii.html docs/ar6-wg-iii.html docs/ar5-wg-i.html docs/ar5-wg-iii.html docs/ar4-wg-i.html docs/tar-wg-i.html docs/sar-wg-i.html docs/far-wg-i.html docs/sr15.html docs/srocc.html
+all: docs/ar6-wg-i.html docs/ar6-wg-ii.html docs/ar6-wg-iii.html docs/ar5-wg-i.html docs/ar5-wg-iii.html docs/ar4-wg-i.html docs/tar-wg-i.html docs/sar-wg-i.html docs/far-wg-i.html docs/sr15.html docs/srocc.html docs/srccl.html
 
 docs/ar6-wg-iii.html: ar6-wg-iii.bib
 	cd docs; bibtex2html -single -css bulma.min.css -header "<section class='section'><div class='container'><h1 class='title'>AR6 WG III</h1><p><a href='index.html'>Back to overview</a></p>" -footer "</div></section>" ../$<
@@ -54,10 +54,10 @@ docs/srocc.html: srocc.bib
 	sed -i s/'<!DOCTYPE HTML PUBLIC "-\/\/W3C\/\/DTD HTML 4.01 Transitional\/\/EN">'/'<!DOCTYPE html>'/ docs/srocc.html
 	sed -i s/'<head>'/'<head><meta charset="utf-8">'/ docs/srocc.html
 
-docs/srocc.html: srccl.bib
+docs/srccl.html: srccl.bib
 	cd docs; bibtex2html -single -css bulma.min.css -header "<section class='section'><div class='container'><h1 class='title'>Special Report on Climate Change and Land</h1><p><a href='index.html'>Back to overview</a></p>" -footer "</div></section>" ../$<
 	sed -i s/'<!DOCTYPE HTML PUBLIC "-\/\/W3C\/\/DTD HTML 4.01 Transitional\/\/EN">'/'<!DOCTYPE html>'/ docs/srccl.html
-	sed -i s/'<head>'/'<head><meta charset="utf-8">'/ docs/srocc.html
+	sed -i s/'<head>'/'<head><meta charset="utf-8">'/ docs/srccl.html
 
 clean:
 	rm docs/ar4*.html docs/ar5*.html docs/ar6*.html docs/sr*.html
