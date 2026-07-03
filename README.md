@@ -1,7 +1,7 @@
 # IPCC Report Citations in BibTeX Format
 
 Unofficial repository collecting commonly used citations for the IPCC reports
-in BibTeX format that are too hard to find.
+in BibTeX format.
 
 ## SR15
 
